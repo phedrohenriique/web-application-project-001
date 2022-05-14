@@ -1,0 +1,54 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.social {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 5px;
+    padding: 0;
+}
+
+.social li {
+    display: inline;
+}
+
+.footerlogo {
+    width: 204px;
+    float: left;
+    margin-top: 5px;
+}
+
+.icon {
+    float: right;
+    padding: 20px;
+}
+
+.icon img {
+    width: 44px;
+    margin-top: 5px;
+}
+
+footer hr {
+    clear: both;
+    margin-top: 110px;
+    margin-bottom: 10px;
+}
+
+.finfo {
+    text-align: center;
+    list-style-type: none;
+    margin: 30px;
+}
+
+.finfo li {
+    margin: 7px;
+    color: rgba(0, 0, 0, 0.8);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
